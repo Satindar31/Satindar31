@@ -9,6 +9,6 @@ Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extremepro999)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebugDotLog)](https://github.com/anuraghazra/github-readme-stats)
 
 Cya 👋
