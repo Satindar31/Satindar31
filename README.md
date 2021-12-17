@@ -11,5 +11,8 @@ Stats:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebugDotLog)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![My Discord Status](https://discord.c99.nl/widget/theme-4/713254655999868931.png )
+
 Cya 👋
 
