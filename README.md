@@ -6,8 +6,8 @@ Im Satindar I make minecraft clients. Currently working on Express-Client. Open 
 Discord: 
 ![My Discord Status](https://discord.c99.nl/widget/theme-4/713254655999868931.png )
 
-Website
-[![WebSite Status](https://betteruptime.com/status-badges/v1/monitor/c46t.svg)](https://betteruptime.com/?utm_source=status_badge)
+Website: https://satindar-codes.cf
+[![WebSite Status](https://betteruptime.com/status-badges/v1/monitor/c46t.svg)](https://betteruptime.com/?ref=80lq)
 
 
 Stats:
