@@ -5,8 +5,10 @@ Im Satindar I make minecraft clients. Currently working on Wolf-Client. Open sou
 
 ![My Discord Status](https://discord.c99.nl/widget/theme-4/713254655999868931.png )
 
-Website: https://satindar-codes.cf
-[![WebSite Status](https://betteruptime.com/status-badges/v1/monitor/c46t.svg)](https://betteruptime.com/?ref=80lq)
+Website: https://satindars-den.cf
+
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FSatindar31%2Fstatus%2Fmaster%2Fapi%2Fwebsite%2Fuptime.json)
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FSatindar31%2Fstatus%2Fmaster%2Fapi%2Fwebsite%2Fresponse-time.json)
 
 
 Stats:
