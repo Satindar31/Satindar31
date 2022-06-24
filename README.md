@@ -17,7 +17,7 @@ Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satindar31)](https://github.com/satindar31)
 
-[![satindars's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebugDotLog)](https://github.com/satindar31)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebugDotLog)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
