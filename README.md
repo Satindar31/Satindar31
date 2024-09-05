@@ -7,10 +7,10 @@ Fullstack Dev
 I started programming in 2020 with HTML/CSS/JS. I have over the years worked with different technologies such as Unity, C# and Unreal Engine.
 
 *   🌍  I'm based in Greater Noida, UP
-*   🖥️  See my portfolio at [Incomplete portfolio](http://satindar.is-a-good.dev)
-*   ✉️  You can contact me at [x7pz8871v@mozmail.com](mailto:x7pz8871v@mozmail.com)
-*   🚀  I'm currently working on [SavorSync](http://recipe-organiser.vercel.app)
-*   🤝  I'm open to collaborating on SavorSync
+*   🖥️  See my portfolio at [satindar.is-a.dev](http:/satindar.is-a.dev)
+*   ✉️  You can contact me at [satindar@mail.satindar.is-a.dev](mailto:satindar@mail.satindar.is-a.dev)
+*   🚀  I'm currently working on nothing
+*   🤝  I'm open to collaborating on nothing
 *   ⚡  I'm actually Batman.
 <a href="https://www.github.com/satindar31" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/satindar31?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/satindar31" target="_blank" rel="noreferrer"><img
