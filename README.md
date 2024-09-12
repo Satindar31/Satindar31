@@ -8,7 +8,7 @@ I started programming in 2020 with HTML/CSS/JS. I have over the years worked wit
 
 *   🌍  I'm based in Greater Noida, UP
 *   🖥️  See my portfolio at [satindar.is-a.dev](http:/satindar.is-a.dev)
-*   ✉️  You can contact me at [satindar@mail.satindar.is-a.dev](mailto:satindar@mail.satindar.is-a.dev)
+*   ✉️  You can contact me at [satindar@satindar-is.me](mailto:satindar@satindar-is.me)
 *   🚀  I'm currently working on nothing
 *   🤝  I'm open to collaborating on nothing
 *   ⚡  I'm actually Batman.
