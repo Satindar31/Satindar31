@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Dev
 -------------
 
-I started programming in 2020 with HTML/CSS/JS. I have over the years worked with different technologies such as React, Nextjs, Nuxt, Unity 3D, C# nad more!
+I started programming in 2020 with HTML/CSS/JS. I have over the years worked with different technologies such as React, Nextjs, Nuxt, Unity 3D, C# and more!
 
 *   🌍  I'm based in Greater Noida, UP
 *   🖥️  See my portfolio at [satindar.is-a.dev](http:/satindar.is-a.dev)
