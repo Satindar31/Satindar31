@@ -6,7 +6,7 @@ Fullstack Dev
 
 I started programming in 2020 with HTML/CSS/JS. I have over the years worked with different technologies such as React, Nextjs, Nuxt, Unity 3D, C# and more!
 
-*   🌍  I'm based in Greater Noida, UP
+*   🌍  I'm based in UP, India
 *   🖥️  See my portfolio at [satindar.is-a.dev](http:/satindar.is-a.dev)
 *   ✉️  You can contact me at [satindar@satindar-is.me](mailto:satindar@satindar-is.me)
 *   🚀  I'm currently working on nothing
